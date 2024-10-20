@@ -1,0 +1,6 @@
+1,2,111.00,transfer
+1,1,1000.00,credit
+1,1,122.00,credit
+1,1,333.00,debit
+1,2,1000.00,transfer
+1,1,2345.00,credit
